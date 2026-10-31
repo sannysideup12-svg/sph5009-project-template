@@ -68,3 +68,9 @@ output/
 *.png
 *.pdf
 !LICENSE
+
+# External data symbolic link
+/data
+
+# Personal setup script
+/setup.R
